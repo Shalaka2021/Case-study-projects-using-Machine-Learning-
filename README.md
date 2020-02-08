@@ -1,4 +1,8 @@
 # Case-study-projects-using-Machine-Learning-
+-Iris Classification using DecisionTreeClassifier
+
+-Iris Classification using KNN
+
 -Play Predictor:There is one data set of weather conditions.
 That dataset contains information as weather and we have to decides whether to play or
 not.
